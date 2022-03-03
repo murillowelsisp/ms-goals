@@ -1,5 +1,5 @@
 # Goals Microservice
-![last_commit](https://img.shields.io/github/last-commit/codeverso/ms-goals) ![workflow badge](https://github.com/codeverso/ms-goals/actions/workflows/maven.yml/badge.svg)
+![workflow badge](https://github.com/codeverso/ms-goals/actions/workflows/maven.yml/badge.svg)
 
 ## Spring Boot, Flyway, Postgres, Docker and MockMvc Rest API Tutorial
 
