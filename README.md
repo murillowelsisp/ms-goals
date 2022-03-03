@@ -27,7 +27,7 @@ The microservice contains the following endpoints.
 
 You can test them using postman or any other rest client.
 
-## Contributors ✨
+## Contributors 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
